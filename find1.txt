@@ -1,0 +1,12 @@
+find this file .
+search this file .
+find this folder .
+search this folder .
+search file in this folder .
+search file in this directory .
+find file in this directory .
+find file in this folder .
+get amit for me .
+find the file name hello in the folder /home/user .
+find the files created before 4th october .
+please identify folder named nikhil .
