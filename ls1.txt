@@ -1,0 +1,10 @@
+display files here .
+list files here .
+enlist files here .
+list files in this folder .
+display files in this folder .
+list contents of the current folder .
+display contents of the current folder .
+show me the sub folders of kite .
+list all .
+can you please show me all the files under folder named nikhil .
