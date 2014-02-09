@@ -1,0 +1,6 @@
+search the word volume in the file data .
+search this file for the string .
+find this string inside the file .
+search for this pattern inside the file .
+enlist all occurences of the word hello in file named  .
+search string inside the file .
