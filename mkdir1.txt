@@ -1,0 +1,8 @@
+create folder here .
+make folder here .
+generate folder here .
+make folder in this directory .
+create folder in this directory .
+generate folder in this directory .
+make folder in the current folder .
+create folder in the current folder .
